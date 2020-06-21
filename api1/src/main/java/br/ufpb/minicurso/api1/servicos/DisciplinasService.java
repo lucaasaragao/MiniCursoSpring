@@ -32,6 +32,11 @@ public class DisciplinasService {
 		disciplinasAdcionadas.get(id).setNome(nome);
 		return disciplinasAdcionadas.get(id);
 	}
+
+	public Disciplina deleteDisciplina(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 }
